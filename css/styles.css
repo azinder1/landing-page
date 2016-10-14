@@ -19,15 +19,19 @@ h1 {
 
 .about-me-info {
   color: black;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
   font-size: 18px;
   color: white;
-  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
   padding-bottom: 20px;
-  padding left: 20px;
   border-radius: 10px;
   margin-bottom: 50px;
   background: rgba(20, 30, 100, 0.5);
+  text-align: justify;
 }
+
  #adam {
    width: 310px;
    float: left;
@@ -35,11 +39,12 @@ h1 {
  }
 
  .lists {
-   font-size: 15px
+   font-size: 18px;
  }
 
 .row {
   color: black;
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
   font-size: 14px;
   color: white;
   padding-top: 10px;
@@ -64,10 +69,22 @@ h3  {
   background: rgba(219, 221, 224, 0.8);
   padding-top: 10px;
   padding-bottom: 20px;
-  border-radius: 10px;
   padding-left: 10px;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
 }
+
 .sidebar-header {
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
+}
+
+.contact-info {
+  font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
 }
