@@ -7,10 +7,14 @@ body {
 }
 
 .header {
-  color: darkgray;
-  margin-left: 20%;
-  margin-bottom: 40px;
+  color: #cbced3;
+  margin-left: 10%;
+  margin-bottom: 70px;
   font-family: monospace;
+  font-size: 22px;
+}
+h1 {
+  font-size: 70px;
 }
 
 .about-me-info {
@@ -23,7 +27,6 @@ body {
   border-radius: 10px;
   margin-bottom: 50px;
   background: rgba(20, 30, 100, 0.5);
-  background-size:
 }
  #adam {
    width: 310px;
@@ -55,4 +58,16 @@ h3  {
 .bold{
   font-weight: bolder;
   font-size: 20px;
+}
+
+.sidebar {
+  background: rgba(219, 221, 224, 0.8);
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  padding-left: 10px;
+}
+.sidebar-header {
+  font-size: 16px;
+  font-weight: bold;
 }
