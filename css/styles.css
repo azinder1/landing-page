@@ -18,7 +18,6 @@ h1 {
 }
 
 .about-me-info {
-  color: black;
   font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
   font-size: 18px;
   color: white;
@@ -28,7 +27,7 @@ h1 {
   padding-bottom: 20px;
   border-radius: 10px;
   margin-bottom: 50px;
-  background: rgba(20, 30, 100, 0.5);
+  background: rgba(53, 52, 44, 0.8);
   text-align: justify;
 }
 
@@ -50,14 +49,16 @@ h1 {
   padding-top: 10px;
   padding-bottom: 20px;
   border-radius: 10px;
-  padding-left: 10px;
-  background: rgba(89, 92, 96, 0.8);
+  padding-left: 20px;
+  padding-right: 20px;
+  background: rgba(53, 52, 44, 0.8);
   margin-bottom: 30px;
 }
 
 h3  {
-  font-size: 30px;
+  font-size: 40px;
   font-style: bold;
+
 }
 
 .bold{
@@ -67,12 +68,13 @@ h3  {
 
 .sidebar {
   background: rgba(219, 221, 224, 0.8);
-  padding-top: 10px;
+  padding-top: 80px;
   padding-bottom: 20px;
   padding-left: 10px;
   border-color: black;
   border-style: solid;
   border-width: thin;
+  text-align: justify;
 }
 
 .sidebar-header {
