@@ -55,10 +55,6 @@ h1 {
   margin-bottom: 30px;
 }
 
-h3  {
-  font-size: 40px;
-  font-style: bold;
-
 }
 
 .bold{
@@ -75,17 +71,12 @@ h3  {
   border-style: solid;
   border-width: thin;
 }
-p.contact-info {
-  text-align: justify;
-  font-style: italic;
-
 
 }
 
-.sidebar-header {
-  font-size: 18px;
+.sidebar-head {
+  font-size: 20px;
   font-weight: bold;
-  font-size: 12px
 }
 
 .contact-info {
