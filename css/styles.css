@@ -8,21 +8,21 @@ body {
 
 
 .about-me-info {
-  background-color: gray;
   color: black;
   font-size: 18px;
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+  padding left: 20px;
   border-radius: 10px;
   margin-bottom: 50px;
-  opacity: 0.8;
+  background: rgba(20, 30, 100, 0.5);
   background-size:
 }
  #adam {
-   width: 300px;
+   width: 310px;
    float: left;
-   margin: 20px;
+   margin: 30px;
  }
 
  .lists {
@@ -30,7 +30,6 @@ body {
  }
 
 .row {
-  background-color: gray;
   color: black;
   font-size: 14px;
   color: white;
@@ -38,10 +37,16 @@ body {
   padding-bottom: 20px;
   border-radius: 10px;
   padding-left: 10px;
-  opacity: 0.8
+  background: rgba(89, 92, 96, 0.8);
+  margin-bottom: 30px;
 }
 
 h3  {
-  font-size: 25px;
-  font-style: italic;
+  font-size: 30px;
+  font-style: bold;
+}
+
+.bold{
+  font-weight: bolder;
+  font-size: 20px;
 }
