@@ -1,21 +1,47 @@
-/*body {
+
+body {
   background-image: url(../img/background1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-}*/
+}
+
+
 .about-me-info {
   background-color: gray;
-  opacity: 20%
   color: black;
-  font-size: 14px;
+  font-size: 18px;
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
   border-radius: 10px;
+  margin-bottom: 50px;
+  opacity: 0.8;
+  background-size:
 }
  #adam {
-   width: 250px;
+   width: 300px;
    float: left;
    margin: 20px;
  }
+
+ .lists {
+   font-size: 15px
+ }
+
+.row {
+  background-color: gray;
+  color: black;
+  font-size: 14px;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  padding-left: 10px;
+  opacity: 0.8
+}
+
+h3  {
+  font-size: 25px;
+  font-style: italic;
+}
