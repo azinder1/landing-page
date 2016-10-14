@@ -1,0 +1,21 @@
+/*body {
+  background-image: url(../img/background1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}*/
+.about-me-info {
+  background-color: gray;
+  opacity: 20%
+  color: black;
+  font-size: 14px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+ #adam {
+   width: 250px;
+   float: left;
+   margin: 20px;
+ }
