@@ -6,6 +6,12 @@ body {
   background-position: center center;
 }
 
+.header {
+  color: darkgray;
+  margin-left: 20%;
+  margin-bottom: 40px;
+  font-family: monospace;
+}
 
 .about-me-info {
   color: black;
